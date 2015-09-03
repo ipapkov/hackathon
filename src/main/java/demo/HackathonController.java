@@ -10,6 +10,6 @@ public class HackathonController
 	@RequestMapping ("/")
 	public String testing()
 	{
-		return "testing";
+		return "testing 1";
 	}
 }
